@@ -8,9 +8,9 @@ This project, developed by Sandesh Bhusal, Akshey Sigdel and Shrutee Dwa, is an 
 
 The project includes the following files:
 
-- `ASplayer.java`: The main Java class for the AI Checkers player.
-- `ASplayerhelper.java`: A supporting Java class containing helper functions.
-- `ASstate.java`: A Java class representing the game state.
+- `player.java`: The main Java class for the AI Checkers player.
+- `playerhelper.java`: A supporting Java class containing helper functions.
+- `state.java`: A Java class representing the game state.
 - `Makefile`: A Makefile for compiling the Java source files.
 - `README.md`: This documentation.
 
